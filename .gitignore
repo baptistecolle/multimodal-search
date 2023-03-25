@@ -1,0 +1,8 @@
+flagged
+
+.DS_Store
+
+# add data folder but not its contents
+
+data/*
+!data/.gitkeep
