@@ -18,3 +18,4 @@ dependencies:
     - datasets
     - accelerate
     - faiss-cpu
+    - sentence-transformers
