@@ -19,4 +19,5 @@ dependencies:
     - accelerate
     - faiss-cpu
     - sentence-transformers
-    - git+https://github.com/huggingface/transformers
+    - notebook
+    - jupyterlab
