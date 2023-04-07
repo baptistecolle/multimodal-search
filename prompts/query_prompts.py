@@ -9,7 +9,7 @@ query_prompts_for_diffusion = [
 #
 query_prompts_for_input_images = [
     "make this cat lick itself",
-    "put-this–elephant–in–a–zoo",
+    "put this elephant in the zoo",
     "make this car new and clean",
     "turn the race car red color",
     "turn the t-shirt rainbow colors",
